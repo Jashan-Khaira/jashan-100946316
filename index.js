@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 app.get('/', (req, res) => {
-  res.send('Hello, GCP CI/CD Pipeline!');
+  res.send('Assignment 2 – 100946316');
 });
 
 app.listen(port, () => {
