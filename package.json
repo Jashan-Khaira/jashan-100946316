@@ -1,0 +1,12 @@
+{
+  "name": "gcp-pipeline-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js application for GCP pipeline demonstration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
